@@ -1,4 +1,18 @@
-## Hi there 👋
+## Analytics Engineer - BI Specialist - Strategy & Operations
+Turning complex data into actionable, strategic decisions for senior leadership and operators. BI‑first, business‑minded, and continuously learning.
+
+### Strengths
+Strategy & operations: Convert business questions into measurable KPIs, roadmaps, and ownership models.
+Executive communication: Distill complex data into concise, strategic recommendations and next steps.
+Enablement: Document, train and build self‑serve BI so teams move quickly with confidence.
+
+### Skills
+BI: Power BI (Certified), DAX, Power Query, dashboard UX, data storytelling
+Analytics Engineering: dbt (beginner), SQL , CI/CD, versioning
+Programming: Python (analysis and automation fundamentals)
+
+### Certifications
+Microsoft Certified Power BI Data Analyst Associate:  Skilled across preparing, modeling, visualizing, analyzing data, and operationalizing deliverables for business value.
 
 <!--
 **imchinmay/imchinmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
