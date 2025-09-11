@@ -16,6 +16,8 @@ Programming: Python (analysis and automation fundamentals)
 ### Certifications
 Microsoft Certified Power BI Data Analyst Associate:  Skilled across preparing, modeling, visualizing, analyzing data, and operationalizing deliverables for business value.
 
+
+![](https://hit.yhype.me/github/profile?account_id=63601058)
 <!--
 **imchinmay/imchinmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
