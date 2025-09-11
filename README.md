@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?imchinmay&abbreviated=true&style=flat-square&color=3432a8)
-
+<h3 align="right"> <img src="https://komarev.com/ghpvc/?username=imchinmay&abbreviated=true&style=flat-square&color=3432a8" alt="imchinmay" /> </h3>
 
 ## Analytics Engineer - BI Specialist - Strategy & Operations
 Turning complex data into actionable, strategic decisions for senior leadership and operators. BI‑first, business‑minded, and continuously learning.
