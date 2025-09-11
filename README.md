@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?imchinmay&abbreviated=true&style=flat-square&color=3432a8)
+
+
 ## Analytics Engineer - BI Specialist - Strategy & Operations
 Turning complex data into actionable, strategic decisions for senior leadership and operators. BI‑first, business‑minded, and continuously learning.
 
